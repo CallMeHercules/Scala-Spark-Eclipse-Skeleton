@@ -1,5 +1,5 @@
 <projectDescription>
-  <name>SparkApp1</name>
+  <name>Scala-Spark-Eclipse-Skeleton</name>
   <buildSpec>
     <buildCommand>
       <name>org.scala-ide.sdt.core.scalabuilder</name>
